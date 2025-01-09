@@ -1,5 +1,5 @@
-# Proyecto Integrador
-## Finanzas Personales: Control y Ahorro Inteligente
+
+# SMARTWALLET: Control y Ahorro Inteligente
 
 ![Banner](http://imgur.com/a/ulOV7Bq) <!-- Puedes agregar un banner o imagen relacionada con tu proyecto -->
 
