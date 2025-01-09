@@ -31,18 +31,18 @@ Con **Finanzas Personales**, queremos solucionar este problema proporcionando un
 
 ## 🛠️ Tecnologías Utilizadas
 
-- **Frontend**: React Native (para una experiencia multiplataforma).
+- **Frontend**: React.
 - **Backend**: Node.js con Express.
-- **Base de Datos**: MongoDB (para almacenar transacciones y datos de usuarios).
+- **Base de Datos**: MYSQL (para almacenar transacciones y datos de usuarios).
 - **Autenticación**: Firebase Authentication.
-- **Despliegue**: AWS (Amazon Web Services).
+- **Despliegue**: Versel y Render.
 
 ## 🚀 Cómo Empezar
 
 ### Requisitos Previos
 
 - Node.js instalado (versión 16 o superior).
-- MongoDB instalado y configurado.
+- MYSQL instalado y configurado.
 - Cuenta de Firebase para la autenticación.
 
 ### Instalación
