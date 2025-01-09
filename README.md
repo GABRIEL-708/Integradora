@@ -1,7 +1,7 @@
 # Proyecto Integrador
 ## Finanzas Personales: Control y Ahorro Inteligente
 
-![Banner](https://cdn-icons-png.flaticon.com/512/21/21064.png) <!-- Puedes agregar un banner o imagen relacionada con tu proyecto -->
+![Banner](http://imgur.com/a/ulOV7Bq) <!-- Puedes agregar un banner o imagen relacionada con tu proyecto -->
 
 ## 📌 Descripción del Proyecto
 
