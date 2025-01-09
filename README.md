@@ -1,7 +1,7 @@
 # Proyecto Integrador
 ## Finanzas Personales: Control y Ahorro Inteligente
 
-![Banner](https://via.placeholder.com/1200x400) <!-- Puedes agregar un banner o imagen relacionada con tu proyecto -->
+![Banner](https://imgur.com/FiFwzDT) <!-- Puedes agregar un banner o imagen relacionada con tu proyecto -->
 
 ## 📌 Descripción del Proyecto
 
@@ -49,8 +49,8 @@ Con **Finanzas Personales**, queremos solucionar este problema proporcionando un
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/finanzas-personales.git
-## Integrantes:
+   git clone https://github.com/GABRIEL-708/Integradora.git
+### Integrantes:
 - Luis Gabriel Canul Canche 
 - Jesus David Avila Garcia
 - Adrian Geovany Domínguez Acevedo
