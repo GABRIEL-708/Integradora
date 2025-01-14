@@ -30,12 +30,13 @@ Con **Finanzas Personales**, queremos solucionar este problema proporcionando un
 - **Notificaciones Inteligentes**: Recibe recordatorios y consejos para mejorar tu gestión financiera.
 
 ## 🛠️ Tecnologías Utilizadas
-
+### WEB
 - **Frontend**: React.
 - **Backend**: Node.js con Express.
 - **Base de Datos**: MYSQL (para almacenar transacciones y datos de usuarios).
 - **Autenticación**: Firebase Authentication.
 - **Despliegue**: Versel y Render.
+### MOBIL
 
 ## 🚀 Cómo Empezar
 
