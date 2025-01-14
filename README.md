@@ -37,6 +37,7 @@ Con **Finanzas Personales**, queremos solucionar este problema proporcionando un
 - **Autenticación**: Firebase Authentication.
 - **Despliegue**: Versel y Render.
 ### MOBIL
+- **Frontend**: Flutter.
 
 ## 🚀 Cómo Empezar
 
